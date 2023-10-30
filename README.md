@@ -1,7 +1,7 @@
 ## MEME-GM
 
-proxy.txt - прокси в формате http://login:pass@ip:port
-token.txt - токены от твиттеров 
+ - proxy.txt - прокси в формате http://login:pass@ip:port
+ - token.txt - токены от твиттеров 
 
 Установка зависимостей
 ```
