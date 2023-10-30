@@ -3,12 +3,12 @@
  - proxy.txt - прокси в формате http://login:pass@ip:port
  - token.txt - токены от твиттеров 
 
-Установка зависимостей
+### Установка зависимостей
 ```
 pip3 install -r requirements.txt 
 ```
 
-Запуск
+### Запуск
 ```
 python3 main.py
 ```
